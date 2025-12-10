@@ -61,6 +61,7 @@ Weekly Sales vs CPI
 | CPI increases steadily     | Inflation trend                                |
 | Sales fluctuate seasonally | CPI has moderate influence on purchasing power |
 
+This Walmart Sales Analysis uncovers key patterns affecting weekly sales, including the impact of holidays, fuel prices, CPI, and temperature. The insights help identify performance trends across stores and time periods, supporting better forecasting and data-driven business decisions.
 
 
  Sales vs Unemployment (Bins)
